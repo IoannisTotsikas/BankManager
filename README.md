@@ -1,2 +1,3 @@
 # BankManager
-A simple bankmanager app with simple options 
+A simple bank manager app with simple options 
+Open dist folder and run BankManagerApp.exe
